@@ -1,0 +1,117 @@
+
+body{ width:960px;
+  background: #777;
+}
+
+code {
+  background: #2db34a;
+  border-radius: 6px;
+  color: #fff;
+  display: block;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+  padding: 15px 10px;
+  text-align: center;
+  content:#ebebeb;
+ 
+
+}
+header,
+nav,
+section,
+aside,
+footer
+
+
+
+header{
+  margin: 0 1.5% 12px 1.5%;
+
+}
+
+
+
+   nav{
+    
+       }
+   
+  section {
+         float:left;
+        background-color: yellow ;
+        width:55%;
+        height:33%;
+       
+       
+        margin-bottom: 20px:;
+        }
+    
+
+
+
+  section #article1{
+
+                
+position: relative;
+          clear:both;
+          margin-right:10px;
+          margin-left: 70px; 
+          margin-top: 0px;
+          padding-top: 30px;
+          padding-bottom: : 0px;
+          padding-left: 10px;
+          padding-right: 10px;
+           background-color: blue;
+          height: 100px; 
+          width:60%;
+         }
+   
+                    
+
+    
+  section #allhead{
+      position: relative;
+        background-color: white;
+       margin-top: -25px;
+        margin-bottom: 15px;
+        height: 40px; 
+        width:100%;
+          }
+
+
+  section #para{
+     position: relative;
+     background-color: white ;
+     margin-bottom:30px;
+     height: 40px; 
+     width:100%;
+     text-align: center;
+       }
+
+
+
+ #aside1{
+        clear:right;
+        float:right;
+        margin-left:10px; 
+        margin-right:1.5%;
+        margin bottom: 20px;
+        width:30%;
+        height:33%;
+        background-color: orange;
+        text-align: center;
+        }
+
+
+footer{
+      clear:both;
+      position: absolute;
+       margin-top:200px; 
+       margin-right:25%;
+
+
+
+        margin-left: 1.5%;
+
+        right:0;
+        left:0;
+
+          }
